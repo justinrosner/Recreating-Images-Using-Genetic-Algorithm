@@ -8,10 +8,3 @@ This was the final project for Software Engineering 2S03 at McMaster University.
 
 
 
-The pictures below illustrate the process from random pixels, to final image.
-
-![](C:\Users\justi\Desktop\escher1.jpeg)
-
-![](C:\Users\justi\mcmaster\year2\2s03\A4\me2.jpeg)
-
-The above image is the before picture, and the bottom is after the genetic algorithm was applied.
